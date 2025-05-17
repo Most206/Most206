@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm [Mostafa Mahmoud]</h1>
+<h1 align="center">Hi there! 👋 I'm Mostafa Mahmoud</h1>
 
 <p align="center">
   🚀 A passionate <strong>Frontend Web Developer</strong> in the making through the <em>[Frontend Web Development Program]</em><br>
