@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Mostafa Mahmoud</h1>
+<h1 align="center">Hi there! 👋 I'm Dr. Mostafa Mahmoud</h1>
 
 <p align="center">
   🚀 A passionate <strong>Frontend Web Developer</strong> in the making through the <em>[Frontend Web Development Program]</em><br>
@@ -57,9 +57,9 @@
 
 ### 🌍 Let's Connect
 
-- 🔗 [Portfolio Website](https://your-portfolio-link.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📬 Email: your.email@example.com
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mostafamahmoudjr/)
+- 📬 Email: mostafamahmoudjr@gmail.com
 
 ---
 
